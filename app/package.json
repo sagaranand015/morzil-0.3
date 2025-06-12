@@ -1,33 +1,24 @@
 {
-  "description": "Left on Read",
+  "description": "Morzil - Physical Security Monitoring Studio",
   "keywords": [
-    "electron",
-    "iMessage",
-    "analytics",
-    "open-source",
-    "text",
-    "chat"
+    "physical",
+    "physical security",
+    "security",
+    "monitoring",
+    "guarding",
+    "remote guarding",
+    "remote monitoring"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Left-on-Read/leftonread.git"
+    "url": "https://github.com/sagaranand015/morzil-0.3.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Left on Read",
-    "email": "help.leftonread@gmail.com",
-    "url": "https://leftonread.me"
+    "name": "Morzil Engineering",
+    "email": "engg@mozil.com",
+    "url": "https://morzil.com"
   },
-  "contributors": [
-    {
-      "name": "Teddy Ni",
-      "url": "https://github.com/Teddarific"
-    },
-    {
-      "name": "Alexander Danilowicz",
-      "url": "https://github.com/alexdanilowicz"
-    }
-  ],
   "main": "./src/main/main.ts",
   "scripts": {
     "build": "concurrently \"yarn build:main\" \"yarn build:renderer\"",
@@ -240,7 +231,7 @@
     "webpack-merge": "^5.8.0"
   },
   "build": {
-    "productName": "Left on Read",
+    "productName": "Morzil Monitoring Studio",
     "appId": "com.northpark.leftonread",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",

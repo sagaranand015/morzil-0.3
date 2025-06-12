@@ -2,27 +2,16 @@
 
 ## Download Packaged Version
 
-<h3><a href=https://github.com/Left-on-Read/leftonread/releases>Download</a></h3>
+<h3><a href=#>Download</a></h3>
 
-<p align="right"><a href="https://leftonread.me/">leftonread.me</a></p>
-
-## License
-
-Left on Read is licensed under an Elastic License 2.0 (ELv2).
-
-By contributing to Left on Read, you agree that your contributions will be licensed under ELv2.
+<p align="right"><a href="https://morzil.com/">morzil.com</a></p>
 
 ## Table of Contents
 
-- [Local Development](#local-development)
-  - [Quick Start](#quick-start)
-  - [Code Style](#code-style)
-  - [Troubleshooting](#troubleshooting)
+- [Quick Start](#quick-start)
+- [Code Style](#code-style)
+- [Troubleshooting](#troubleshooting)
 
-## Local Development
-
-We are proud to be using [Electron-React Boilerplate
-](https://electron-react-boilerplate.js.org/). They have fantastic documentation that covers the basics, including how to add tests and package the application. Read all of their docs first.
 
 ### Quick Start
 
